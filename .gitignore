@@ -1,3 +1,4 @@
 .venv
 ref_data/TWINGO/*
+ref_data/parsed_images/*
 !ref_data/TWINGO/MR413X4416A000.pdf
